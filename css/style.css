@@ -765,13 +765,7 @@ line-height: 1.17;
    background-color: #404bbf;;
 }
 
-.button-submit{
-    
-    margin-top: 16px;
-    width: 100%;
-    display: flex;
-    justify-content: center;
-}
+
 .modal-fielder{
     margin-bottom: 24px;
 }
