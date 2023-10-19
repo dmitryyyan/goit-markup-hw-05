@@ -529,6 +529,9 @@ letter-spacing: 0.32px;
 .foots{
     fill:#f4f4fd;
 }
+.subscribe{
+    margin-left: 56px;
+}
 .subscribe-form{
     display: flex;
     gap: 24px;
